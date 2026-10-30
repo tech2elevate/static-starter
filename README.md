@@ -15,6 +15,6 @@ A starting point for building a website with HTML, CSS, and JavaScript.
 
 - `index.html`: the page content
 - `styles.css`: the page's appearance
-- `main.js`: the page's behavior
+- `script.js`: the page's behavior
 
 Edit any of these files, and the preview updates to match.
